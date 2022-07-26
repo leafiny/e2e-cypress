@@ -1,0 +1,24 @@
+{
+  "url": {
+    "homepage": "/",
+    "checkout": "/checkout.html",
+    "product": "/lagerstroemia-natchez.html"
+  },
+  "product": {
+    "name": "Lagerstroemia Natchez"
+  },
+  "cartRule": {
+    "freeProductName": "Afourer Mandarin",
+    "coupon": "LEAFINY5"
+  },
+  "address": {
+    "email": "john.doe@example.com",
+    "firstname": "John",
+    "lastname": "Doe",
+    "street": "459 Main St",
+    "postcode": "01801",
+    "city": "Woburn",
+    "country": "US",
+    "telephone": "(781) 376-1575"
+  }
+}
