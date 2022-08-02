@@ -2,6 +2,8 @@
 
 Leafiny e2e tests. Tests will be added over time.
 
+Tests are written on the Leafiny [sample data](https://github.com/leafiny/sample-data) with the default theme.
+
 # Installation
 
 First, install Cypress in the root of the Leafiny project:
